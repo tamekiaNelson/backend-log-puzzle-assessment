@@ -18,6 +18,7 @@ Here's what a puzzle url looks like:
 Gecko/20070725 Firefox/2.0.0.6"
 
 """
+__author__ = "tamekiaNelson"
 
 import os
 import re
